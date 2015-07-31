@@ -12,8 +12,8 @@
     ],
     "minimum-stability": "stable",
     "bin": [
-        "bin/wkhtmltopdf-trusty-osx",
-        "bin/wkhtmltopdf-amd64-osx"
+        "bin/wkhtmltopdf-amd64-osx",
+        "bin/wkhtmltopdf-linux-trusty-amd64"
     ],
     "require": {}
 }

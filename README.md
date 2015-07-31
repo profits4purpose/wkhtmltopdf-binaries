@@ -1,4 +1,4 @@
-# wkhtmltopdf for OSX 0.12.1 qtwebkit
+# wkhtmltopdf for OSX 0.12.2.1 qtwebkit
 
 [Selected binaries from http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html)
 
@@ -15,7 +15,7 @@
     ```js
     {
         "require": {
-            "profits4purpose/wkhtmltopdf-binaries": "0.12.1"
+            "profits4purpose/wkhtmltopdf-binaries": "0.12.2.1"
         }
     }
     ```
