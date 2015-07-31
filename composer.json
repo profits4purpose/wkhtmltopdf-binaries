@@ -1,0 +1,19 @@
+{
+    "name": "profits4purpose/wkhtmltopdf-binaries",
+    "description": "The wkhtmltopdf binaries for OSX and Ubuntu 14.04 Trusty.",
+    "keywords": ["pdf", "wkhtmltopdf", "binary"],
+    "license": "LGPL Version 3",
+    "homepage": "https://github.com/profits4purpose/wkhtmltopdf-binaries",
+    "authors": [
+        {
+            "name": "Curtis Farnham",
+            "email": "curtis@profits4purpose.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf-trusty-osx",
+        "bin/wkhtmltopdf-amd64-osx"
+    ],
+    "require": {}
+}
