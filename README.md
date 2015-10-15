@@ -25,7 +25,7 @@
 ```
 vendor/bin/wkhtmltopdf-amd64-osx
 
-vendor/bin/wkhtmltopdf-linux-trusy-amd64
+vendor/bin/wkhtmltopdf-linux-trusty-amd64
 ```
 
 Enjoy the bin files!
